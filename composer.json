@@ -1,0 +1,8 @@
+{
+    "name": "pyhtio/fb-login-template",
+    "description": "Blank app with Facebook login ability",
+    "type": "project",
+    "require": {
+        "facebook/graph-sdk": "^5.4"
+    }
+}
